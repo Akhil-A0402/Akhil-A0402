@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 <!-- # Welcome -->
 ## Hey folks, 
 #### I'm Akhil A and I'm a web developer and ML Intern. 
+<div>
+<a href="https://www.linkedin.com/in/akhil-a-nair/" title="Checkout My Linkedin"><img src="Images/linkedin.png">
+<a href="https://github.com/Akhil-A0402"><img src="Images/github.png"></a>
+</div>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Akhil-A0402>&theme=<THEME_NAME>" /> -->
