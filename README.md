@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome
-## I'm Akhil A
+
+[![Header](Header.jpg "Header")]()
+<!-- # Welcome -->
+## Hey folks, 
+#### I'm Akhil A and I'm a web developer and ML Intern. 
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Akhil-A0402>&theme=<THEME_NAME>" /> -->
