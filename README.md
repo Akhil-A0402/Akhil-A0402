@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <!-- # Welcome -->
 ## Hey folks, 
 #### I'm Akhil A and I'm a web developer and ML Intern. 
+
+#### I'm currently working as a front-end web developer intern.
+
+#### Learning backend in web development.
 <div>
 <a href="https://www.linkedin.com/in/akhil-a-nair/" title="Checkout My Linkedin"><img src="Images/linkedin.png">
 <a href="https://github.com/Akhil-A0402" title="Checkout my Github"><img src="Images/github.png"></a>
