@@ -42,7 +42,7 @@ Learning backend in web development.
     He / His
 
 
-### Checkout my Profile
+### 📖 Checkout my Profile
 <div style="margin-left:2%;margin-right:2%;">
 <a href="https://www.linkedin.com/in/akhil-a-nair/" title="Checkout My Linkedin" style="padding:10px"><img src="Images/linkedin.png"  width="50px" height="50px">
 <a href="https://github.com/Akhil-A0402" title="Checkout my Github"  style="padding:10px"><img src="Images/github.png"  width="50px" height="50px"></a>
