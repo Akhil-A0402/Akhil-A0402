@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akhil A</h1>
-<h3 align="center">A</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-a0402&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-a0402" /> </p>
 
