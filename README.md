@@ -4,12 +4,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-a0402" alt="akhil-a0402" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio.**
+Software Engineer specializing in **backend systems** and **security platforms**. I build scalable, high-performance applications using modern architectures and best practices.
 
-- 🌱 I’m currently learning **NodeJS,**
+## 💻 What I Do
+- Design and develop **microservices** and **event-driven systems**
+- Build robust REST APIs with **Java Spring Boot**
+- Optimize performance and scale backend infrastructure
+- Work with message brokers like **Kafka** and **RabbitMQ**
 
-- 📫 How to reach me **akhil.a.nair760@gmail.com**
+## 🛠️ Tech Stack
+`Java` `Spring Boot` `PostgreSQL` `Kafka` `RabbitMQ` `Microservices` `REST APIs`
 
+📫 Let's connect: <a href="https://www.linkedin.com/in/akhil-a-nair/"> 💼 LinkedIn</a> | <a href="mailto:akhil.a.nair760@gmal.com"> 📩 Mail</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
