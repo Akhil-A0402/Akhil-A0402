@@ -1,30 +1,69 @@
-<h1 align="center">Hi 👋, I'm Akhil A</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Akhil%20A&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=51&descAlign=50" width="100%" alt="Header Image" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-a0402&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-a0402" /> </p>
+# Hi 👋, I'm Akhil A
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhil-a0402" alt="akhil-a0402" /></a> </p>
+<div align="center">
+  <img src="Images/Hi.png" width="150" alt="Avatar" />
+</div>
 
-Software Engineer specializing in **backend systems** and **security platforms**. I build scalable, high-performance applications using modern architectures and best practices.
+---
 
-## 💻 What I Do
-- Design and develop **microservices** and **event-driven systems**
-- Build robust REST APIs with **Java Spring Boot**
-- Optimize performance and scale backend infrastructure
-- Work with message brokers like **Kafka** and **RabbitMQ**
+### 🚀 About Me
+I am a performance-driven **Software Development Engineer** specializing in high-scale backend architectures, microservices, and security platforms. 
 
-## 🛠️ Tech Stack
-`Java` `Spring Boot` `PostgreSQL` `Kafka` `RabbitMQ` `Microservices` `REST APIs`
+- 💡 **Bridging the gap** between traditional backend engineering and the AI-native future.
+- 🛠️ Expert in **Java, Spring Boot, Microservices, and Event-Driven Architecture**.
+- ⚡ Focused on **Performance Optimization** (Reduced P99 latency by 60% at scale).
 
-📫 Let's connect: <a href="https://www.linkedin.com/in/akhil-a-nair/"> 💼 LinkedIn</a> | <a href="mailto:akhil.a.nair760@gmal.com"> 📩 Mail</a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Currently, I am working at **Jio Platforms Limited** as an **SDE**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil-a0402&show_icons=true&locale=en&layout=compact" alt="akhil-a0402" /></p>
+### 🛠️ Technical Skill Set
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhil-a0402&show_icons=true&locale=en" alt="akhil-a0402" /></p>
+| Category | Skills |
+|---|---|
+| **Languages** | Java (JDK 17+), Python, SQL |
+| **Backend** | Spring Boot, Microservices, RESTful APIs, Concurrency, Distributed Systems |
+| **Messaging** | Apache Kafka, RabbitMQ |
+| **Databases** | PostgreSQL, MySQL, MongoDB, OpenSearch (Elasticsearch) |
+| **DevOps & Cloud** | AWS (EC2, S3, Lambda), Docker, Kubernetes, ELK Stack |
+| **AI Agents & Tooling** | Claude Code, Cursor, GitHub Copilot, Gemini CLI, MCP |
+| **Modern Workflow** | **Vibecoding**, Git, GitHub, Figma, Canva, Postman |
+| **AI & Machine Learning** | TensorFlow, NLP, Deep Learning, Scikit-learn, NumPy, Pandas, Model Training |
+| **Performance** | Redis, Query Optimization, Latency Tuning |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-a0402&" alt="akhil-a0402" /></p>
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil-a0402&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhil-a0402&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-a0402&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/akhil-a-nair/">
+    <img src="Images/linkedin.png" width="30" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:akhil.a.nair760@gmail.com">
+    <img src="Images/gmail.png" width="30" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/akhil-a0402">
+    <img src="Images/github.png" width="30" alt="GitHub" />
+  </a>
+</div>
+
+---
